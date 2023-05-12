@@ -8,6 +8,7 @@ Ce projet à pour but d'offrir une démonstration d'utilisation d'un playbook av
 
 ## Installation
 
+Serveurs de type **Debian** uniquement !!  
 * 192.168.10.23 web-lamp
 * 192.168.10.24 db-lamp
 
