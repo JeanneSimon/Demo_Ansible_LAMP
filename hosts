@@ -1,0 +1,4 @@
+[web]
+web-lamp ansible_user=webuser
+[db]
+db-lamp ansible_user=dbuser
