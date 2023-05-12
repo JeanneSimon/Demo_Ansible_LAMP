@@ -29,7 +29,7 @@ function getArticles(PDO $PDO)
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>Mon serveur LAMP avec ansible !</title>
+  <title>Démo playbook stack LAMP</title>
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -43,7 +43,7 @@ function getArticles(PDO $PDO)
 <body>
 
   <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
-    <a class="navbar-brand" href="#">Mon serveur apache ansible !</a>
+    <a class="navbar-brand" href="#">Mon blog avec Ansible !</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -121,7 +121,7 @@ function getArticles(PDO $PDO)
 
   <footer class="page-footer font-small bg-dark mt-5">
     <div class="footer-copyright text-center py-3 text-white">© Copyright:
-      <a href="#"> MonAppApacheAnsible</a>
+      <a href="https://devopssec.fr/">devopssec.fr</a>
     </div>
   </footer>
 
