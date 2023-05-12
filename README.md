@@ -1,6 +1,8 @@
 # Démo stack LAMP avec ANsible
 
-Ce projet à pour but d'offrir une démonstration d'utilisation d'un playbook avec Ansible pour construire une stack LAMP avec un blog.
+Ce projet à pour but d'offrir une démonstration d'utilisation d'un playbook avec Ansible pour construire une stack LAMP avec un blog.  
+[Lien vers le tuto de devopssec](https://devopssec.fr/article/creation-playbook-ansible-stack-lamp#begin-article-section)
+
 
 ![Logo](https://www.toolin.fr/wp-content/uploads/2021/08/ansible-logo.png)
 
@@ -24,6 +26,7 @@ To deploy this project run
   tar xvzf <release.tar.gz>
   ansible-playbook release/playbook.yml
 ```
+
 
 
 
